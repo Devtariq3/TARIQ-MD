@@ -1,9 +1,9 @@
-"name": "TARIQ-MD",
+i"name": "TARIQ-MD",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created By Dev Tariq ❤️🔐",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach -- TARIQ-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name TARIQ-MD",
     "stop": "pm2 stop TARIQ-MD",
     "restart": "pm2 restart TARIQ-MD"
   },
