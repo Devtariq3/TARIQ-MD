@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Devtariq3">
-    <img title="Author" src="https://img.shields.io/badge/Author-%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-%20Tariq-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb40oQM7z4kmL0SG4h45">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -68,7 +68,7 @@
   <a href="https://replit.com/github/Devtariq3/TARIQ-MD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1">
+  <a href="https://railway.app/new/template?template=https://github.com/Devtariq3/TARIQ-MD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">
