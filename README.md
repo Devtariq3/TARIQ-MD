@@ -103,9 +103,9 @@
 ### ⚙️ Configuration `.env` File
 
 ```env
-SESSION_ID="INCONNU~XD~"
+SESSION_ID="TARIQ~MD~"
 AUTO_READ_STATUS=true
-STATUS_READ_MSG="*Status Seen By INCONNU-XD ⚡*"
+STATUS_READ_MSG="*Status Seen By TARIQ-MD 🥷*"
 AUTO_STATUS_REPLY=false
 AUTO_REJECT_CALLS=false
 MODE="public"
@@ -170,7 +170,7 @@ jobs:
 ```
 
 ## ❤️ Credits
-[![GitHub - your github namee](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/your github name)
+[![GitHub - Devtariq3](https://img.shields.io/badge/GitHub-Devtariq3-181717?style=for-the-badge&logo=github)](https://github.com/Devtariq3)
 
 ---
-[![ THANKS TO INCONNU-BOY](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY)
+[![ THANKS TO Dev Tariq](https://img.shields.io/badge/GitHub-Devtariq3-181717?style=for-the-badge&logo=github)](https://github.com/Devtariq3)
