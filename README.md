@@ -18,7 +18,7 @@
   <a href="https://github.com/Devtariq3">
     <img title="Author" src="https://img.shields.io/badge/Author-%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
+  <a href="https://whatsapp.com/channel/0029Vb40oQM7z4kmL0SG4h45">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![NCONNU XD SESSION](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
+[![TARIQ MD SESSION](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Devtariq3-web.onrender.com/)
 
 
 ### 🔑 Get PAIR CODE
-[![TARIQ MD PAIR](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
+[![TARIQ MD PAIR](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Devtariq3-web.onrender.com/pair)
 
 
 ---
@@ -65,7 +65,7 @@
 ### ☁️ Deploy To Platforms
 
 <p align="center">
-  <a href="https://replit.com/github/INCONNU-BOY/INCONNU-XD-V1">
+  <a href="https://replit.com/github/Devtariq3/TARIQ-MD">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
   <a href="https://railway.app/new/template?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1">
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Devtariq3/TARIQ-MD/tree/main">
     <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://host.talkdrove.com/share-bot/82">
@@ -93,7 +93,7 @@
 ### 📦 Download the Bot File
 
 <p align="center">
-  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1/archive/refs/heads/main.zip">
+  <a href="https://github.com/Devtariq3/TARIQ-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
