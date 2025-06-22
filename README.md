@@ -35,7 +35,7 @@
 - ✅ Session Sharing System  
 - ✅ Fully Open Source  
 - ✅ Auto QR to DM  
-- ✅ Session ID Generator (`INCONNU-SESSION-ID`)  
+- ✅ Session ID Generator (`Tariq-SESSION-ID`)  
 - ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ---
