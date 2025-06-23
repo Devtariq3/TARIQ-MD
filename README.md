@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![TARIQ MD SESSION](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Devtariq3-web.onrender.com/)
+[![TARIQ MD SESSION](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-pswx.onrender.com/)
 
 
 ### 🔑 Get PAIR CODE
-[![TARIQ MD PAIR](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://Devtariq3-web.onrender.com/pair)
+[![TARIQ MD PAIR](https://img.shields.io/badge/TARIQ%20-MD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://session-id-pswx.onrender.com/)
 
 
 ---
