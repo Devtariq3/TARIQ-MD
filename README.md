@@ -83,7 +83,7 @@
   <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=INCONNU-BOY/INCONNU-XD-V1&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Devtariq3/TARIQ -MD&ports=3000">
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
