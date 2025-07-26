@@ -33,7 +33,7 @@ const {
   const qrcode = require('qrcode-terminal')
   const StickersTypes = require('wa-sticker-formatter')
   const util = require('util')
-  const { sms, downloadMediaMessage, AntiDelete } = require('./inconnuboy')
+  const { sms, downloadMediaMessage, AntiDelete } = require('./Tariq')
   const FileType = require('file-type');
   const axios = require('axios')
   const { File } = require('megajs')
